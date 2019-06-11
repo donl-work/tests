@@ -1,1 +1,1 @@
-console.log('f1 322')
+console.log('f1')
